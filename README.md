@@ -1,4 +1,4 @@
-#PyText
+# PyText
 
 PyText is a simple and easy to use text editor written in the Python programming language using the tkinter library. 
 
