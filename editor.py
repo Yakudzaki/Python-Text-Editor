@@ -10,7 +10,7 @@ win.title("PyText")
 width = 1200
 height = 600
 win.geometry(f"{width}x{height}+150+120")
-#win.iconbitmap("icons/notepad.ico")
+win.iconbitmap("icons/notepad.ico")
 
 ###################################      Main Menu Starts       #################################
 main_menu = Menu(win)
